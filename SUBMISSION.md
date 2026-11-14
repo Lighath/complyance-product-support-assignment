@@ -2,7 +2,7 @@
 
 - **Name:** K. Raghavv Lighath
 - **Date submitted:** 16 November 2026
-- **Repository link:** [Add your GitHub repository URL]
+- **Repository link:** [- **Repository link:** https://github.com/Lighath/complyance-product-support-assignment]
 - **Total time spent (real time):** Approximately 3–4 hours
 
 > All reply times below are proposed exercise-clock times (Asia/Dubai). They are drafts, not messages actually sent.
@@ -20,8 +20,7 @@ I prioritised the production API alert, Oasis Builders' duplicate-risk upload, a
 - **Sent at (exercise clock):** 09:15
 - **Reply:**
 
-> Hello Rashid,
->
+> Hello Rashid,\>
 > I understand that your November upload has remained in Processing after multiple attempts and that you are now seeing document-number-already-exists warnings. I appreciate the month-end urgency.
 >
 > Please do not retry the upload for now. I am checking the invoice records and submission statuses to identify what has already been processed and what remains outstanding. I will provide an update within the next 2–4 hours.
