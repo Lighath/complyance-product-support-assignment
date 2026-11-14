@@ -1,0 +1,54 @@
+  status   |            asp_message_id            |                                                                                                                                           asp_response                                                                                                                                           
+-----------+--------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ Accepted  | 60d07eb7-e193-4a2a-884d-defe3ef6d9b1 | {"status": "accepted"}
+ Accepted  | ecf06858-1da3-4371-be30-94832f648e02 | {"status": "accepted"}
+ Accepted  | 27713832-2751-4e69-bc6f-865acd2877e7 | {"status": "accepted"}
+ Accepted  | b64b693e-5658-41cb-9ebd-a081bdc5c096 | {"status": "accepted"}
+ Accepted  | ee3d1aec-3552-4f75-80c6-a00f0b9c6228 | {"status": "accepted"}
+ Accepted  | 6cb11d5b-e7e1-4907-996d-f751d0e15b78 | {"status": "accepted"}
+ Accepted  | f7d4a921-2796-4868-bfed-c6e099739320 | {"status": "accepted"}
+ Accepted  | 9c15d333-7e3d-4567-a733-703a65fbf75d | {"status": "accepted"}
+ Accepted  | 6be58311-d423-4faf-aa89-7164dde93782 | {"status": "accepted"}
+ Accepted  | f98a2a46-f6c8-4c3a-881d-1b7b8709ff5a | {"status": "accepted"}
+ Accepted  | 47fed5d8-3e37-423e-b4ce-0228d1b0c33a | {"status": "accepted"}
+ Accepted  | b7388c8e-e705-4355-8e71-0844c4c60461 | {"status": "accepted"}
+ Accepted  | d3b646f0-d8c5-49b3-87c8-fff4cd1a1fc9 | {"status": "accepted"}
+ Accepted  | 019492b2-59fd-4392-bc8d-cb0d6c0a10f8 | {"status": "accepted"}
+ Accepted  | d67b189f-511e-45cf-ba64-322661ccc054 | {"status": "accepted"}
+ Accepted  | 8104ee73-c24d-41b2-af5e-7df3476a0832 | {"status": "accepted"}
+ Accepted  | e4a7cdc8-8f95-4957-8c0c-1db07b9c40f8 | {"status": "accepted"}
+ Accepted  | a67a7b9d-9da4-4525-b4dd-0690256d9b92 | {"status": "accepted"}
+ Accepted  | af55604a-ba67-4f8a-89ce-7b9421163c12 | {"status": "accepted"}
+ Accepted  | 9564c527-628f-4285-99fe-d7efa73be76c | {"status": "accepted"}
+ Accepted  | 9d10ff8d-7ef9-421c-85c0-7eb828e031a5 | {"status": "accepted"}
+ Accepted  | 3a7f0d89-fe12-4f54-b216-f03d84f4a72c | {"status": "accepted"}
+ Accepted  | 7aa2d58e-1670-42a0-b367-80a1a94302c4 | {"status": "accepted"}
+ Accepted  | c8849d7f-7b8c-44e4-b172-e1bb9bba442d | {"status": "accepted"}
+ Accepted  | 21c36cf5-082a-4a21-a823-efe24b5e62b8 | {"status": "accepted"}
+ Accepted  | 789b42c2-77d1-4d61-b3f9-6437f7cc3adf | {"status": "accepted"}
+ Accepted  | 13f91cb7-fde0-45a2-9c47-b1b7cc4c744c | {"status": "accepted"}
+ Accepted  | 3f9716d2-e409-4411-a67b-8b427881be8f | {"status": "accepted"}
+ Accepted  | 98929b36-eb28-4036-890e-5f642c9fa8a5 | {"status": "accepted"}
+ Accepted  | 6e9ce9af-6877-42fd-a7ee-3e0851c1d76a | {"status": "accepted"}
+ Accepted  | ba6d20cf-b304-4b2f-b4c7-cd29abf995e6 | {"status": "accepted"}
+ Accepted  | 1217b029-544c-43c0-a0a2-b154426b663d | {"status": "accepted"}
+ Accepted  | 2de9127f-f4cc-4726-bdc9-dd407b0abbb2 | {"status": "accepted"}
+ Accepted  | 69da1030-34d7-4c5f-a4e7-a4cfc0881d7e | {"status": "accepted"}
+ Accepted  | a7eabc1b-872e-40f0-aca8-316d9576f653 | {"status": "accepted"}
+ Accepted  | 0fd860ba-f1f4-4d50-af6f-7fba67748749 | {"status": "accepted", "messageId": "0fd860ba-f1f4-4d50-af6f-7fba67748749", "receivedAt": "2026-11-14T11:31:48.948797509Z"}
+ Rejected  |                                      | 
+ Rejected  |                                      | {"errors": [{"rule": "BR-CO-15", "message": "Invoice total amount with VAT (IBT-112) must equal Invoice total amount without VAT (IBT-109) + Invoice total VAT amount (IBT-110). Got 15022.42, expected 15022.43."}], "status": "rejected", "messageId": "11eca45f-fc31-4974-8046-27c1ecde918b"}
+ Submitted |                                      | 
+ Rejected  |                                      | 
+ Rejected  |                                      | 
+ Accepted  | fbefee9f-ac0e-4ffe-91b9-19bf2fb28591 | {"status": "accepted", "messageId": "fbefee9f-ac0e-4ffe-91b9-19bf2fb28591", "receivedAt": "2026-11-14T11:31:40.694150356Z"}
+ Accepted  | 031039c2-cd6d-41bd-b37e-dfc9616fb202 | {"status": "accepted", "messageId": "031039c2-cd6d-41bd-b37e-dfc9616fb202", "receivedAt": "2026-11-14T11:29:38.726454034Z"}
+ Submitted |                                      | 
+ Rejected  |                                      | {"errors": [{"rule": "BR-CO-15", "message": "Invoice total amount with VAT (IBT-112) must equal Invoice total amount without VAT (IBT-109) + Invoice total VAT amount (IBT-110). Got 11817.57, expected 11817.59."}], "status": "rejected", "messageId": "cafef9cf-ff59-444d-b216-b9a12e6ba3db"}
+ Submitted |                                      | 
+ Submitted |                                      | 
+ Accepted  | d03897fe-8ef3-408b-9bb3-55ae3ea5d035 | {"status": "accepted", "messageId": "d03897fe-8ef3-408b-9bb3-55ae3ea5d035", "receivedAt": "2026-11-14T11:31:47.28136673Z"}
+ Accepted  | ef342598-5458-475d-873c-eb3800489495 | {"status": "accepted", "messageId": "ef342598-5458-475d-873c-eb3800489495", "receivedAt": "2026-11-14T11:31:47.432333275Z"}
+ Submitted |                                      | 
+(50 rows)
+

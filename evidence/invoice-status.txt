@@ -1,0 +1,10 @@
+  status   | rejected_by | count 
+-----------+-------------+-------
+ Accepted  |             |   230
+ Parsed    |             |    18
+ Rejected  | asp         |     3
+ Rejected  | portal      |     4
+ Submitted |             |   228
+ Validated |             |    24
+(6 rows)
+

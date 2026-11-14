@@ -1,0 +1,21 @@
+GHAF TREE CAFE — INVESTIGATION
+
+Customer: Hessa Al Ketbi, Ghaf Tree Café LLC
+Received: 16 Nov 2026, 12:10 +0400
+Invoice issue date entered: 13/11/2026
+Portal validation requirement: YYYY-MM-DD
+Observed error: [Invoice issue date*] must be a date in YYYY-MM-DD format.
+
+Finding:
+The entered date is valid in DD/MM/YYYY format, but the portal rejects
+that format because it expects YYYY-MM-DD. This is a date-format
+validation issue, not evidence of an invalid calendar date.
+
+Workaround:
+Convert 13/11/2026 to 2026-11-13 in the spreadsheet and re-upload.
+Check other date cells for the same format before retrying.
+
+Prevention:
+Provide a clear spreadsheet example and date-format instructions.
+Consider supporting DD/MM/YYYY input or returning a clearer validation
+message with an example.
